@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-123
+Learn Git in details
 
 ## Deployment
 
