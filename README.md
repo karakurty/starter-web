@@ -16,3 +16,7 @@ Learn Git in details
 Sample website with plenty of files for demos
 
 2019 Git.Training
+
+## Version
+
+v.0.1
