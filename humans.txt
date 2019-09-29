@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Valeriy Fezler - developer - karakurty@gmail.com
 
 # THANKS
 
